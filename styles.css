@@ -1,0 +1,27 @@
+h1 {
+    color: #0000FF;
+       
+}
+
+h2 {
+    color:#7B68EE;
+    font-family: 'Open Sans', sans-serif;    
+}
+
+body {
+    font-family: 'Inria Serif', serif;
+
+    background-image: url("images/full-bloom.png");
+}
+
+.button {
+    background-color: rgb(94, 76, 175);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
